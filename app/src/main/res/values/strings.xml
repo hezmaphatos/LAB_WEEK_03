@@ -12,5 +12,14 @@ extraction.)</string>
     <string name="latte_desc">A tall, mild \'milk coffee\' (about 150-300 ml). An
 espresso with steamed milk and only a little milk foam poured over it. Serve in a
 latte glass or a coffee cup. Flavored syrup can be added.</string>
+    <string name="piccolo_title">PICCOLO</string>
+    <string name="piccolo_desc">A piccolo is a small, strong milk coffee (about 90–120 ml).
+It’s made with a ristretto or single espresso shot topped with warm steamed
+        milk and a thin layer of microfoam.</string>
+    <string name="cinnamon_title">CINNAMON</string>
+    <string name="cinnamon_desc">A cinnamon coffee is a spiced milk coffee flavored with ground cinnamon
+        or cinnamon syrup. It’s typically made with an espresso or brewed
+        coffee, steamed milk, and a dusting of cinnamon powder on top.</string>
     <string name="coffee_list">Coffee List</string>
+    <string name="back_btn">Back</string>
 </resources>
